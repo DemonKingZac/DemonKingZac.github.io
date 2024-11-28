@@ -1,0 +1,28 @@
+h1{text-align: center;}
+.alpha{display: block;margin-right: auto;margin-left: auto;border-radius: 200px;}
+.beta{display: block;margin-left: 200px;border-radius: 10px;}
+#listedejeux{margin-left: 200px;display: block;border-radius: 5px;text-decoration:none;color:palegoldenrod;background-color: blueviolet;}
+.gamma{margin-left: 150px;border-radius: 10px;}
+table{margin-left: 100px;margin-right: 100px;}
+#horaire{margin-left: 145px;margin-right: 10px;padding-right: 5px;display: block;border-radius: 5px;text-decoration: none;color: palegoldenrod;background-color: blueviolet;}
+html{background-color:rgb(21, 104, 104) ;}
+table#deux{border: black 2px;border-style: solid;border-collapse: collapse;}
+td.da{border: black 2px;border-style:solid;background-color: blueviolet;color: palegoldenrod;}
+.titre{background-color: blueviolet;color: palegoldenrod;text-decoration: none;}
+.do{display: block;}
+#arrow{border-radius: 500px;margin-left: auto;margin-right: auto;display: block;margin-top: 10px;}
+a{text-decoration: none;}
+a:hover{color: darkorange;background-color: aqua;text-decoration: none;}
+.titre:hover{color: darkorange;background-color: aqua;}
+table#trois{border: black 2px;border-style: solid;border-collapse: collapse;margin-left: auto;margin-right: auto;}
+td.di{border: black 2px;border-style:solid;background-color: blueviolet;color: palegoldenrod;}
+th.di{border: black 2px;border-style:solid;background-color: blueviolet;color: palegoldenrod;}
+.x{background-color: blueviolet;color: palegoldenrod;text-decoration: none;}
+.delta{display: block;margin-left:150px;border-radius: 10px;}
+#Mod{margin-left:150px;margin-right: 10px;padding-right: 5px;display: block;border-radius: 5px;text-decoration: none;color: palegoldenrod;background-color: blueviolet;}
+td.modtable{border: black 2px;border-style:solid;background-color: blueviolet;color: palegoldenrod;}
+th.modtable{border: black 2px;border-style:solid;background-color: blueviolet;color: palegoldenrod;}
+.z{background-color: blueviolet;color: palegoldenrod;text-decoration: none;}
+#wa{background-color: blueviolet;color: palegoldenrod;text-decoration: none;}
+table#quatre{border: black 2px;border-style: solid;border-collapse: collapse;margin-left: auto;margin-right: auto;}
+#banana{border: black 2px;border-style: solid;border-collapse: collapse;margin-left: 804px;margin-right: auto;}
