@@ -182,7 +182,7 @@ th.tdenemy{
 ol{
     width: 250px;
 }
-.trick{
+td.trick{
     width: 300px;
     border: black 2px solid;
     border-collapse: collapse;
