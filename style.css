@@ -164,11 +164,16 @@ table#quatre{
 }
 table#tableenemy{
     border: 2px black solid;
+    border-collapse: collapse;
 }
-.tdenemy{
+td.tdenemy{
     border: black 2px solid;
     border-collapse: collapse;
 }
+th.tdenemy{
+    border: black 2px solid;
+    border-collapse: collapse;
+}v
 ol{
     width: 250px;
 }
