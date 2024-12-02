@@ -182,10 +182,3 @@ th.tdenemy{
 ol{
     width: 250px;
 }
-td.trick{
-    width: 300px;
-    border: black 2px solid;
-    border-collapse: collapse;
-    background-color: blueviolet;
-    color: palegoldenrod;
-}
