@@ -182,3 +182,9 @@ th.tdenemy{
 ol{
     width: 250px;
 }
+caption{
+    border: black 2px solid;
+    border-collapse: collapse;
+    background-color: blueviolet;
+    color: palegoldenrod;
+}
